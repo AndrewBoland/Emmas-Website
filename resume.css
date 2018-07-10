@@ -1,0 +1,66 @@
+.header {
+	text-align: center; 
+	color: white;
+	background: rgb(15, 185, 177);
+	padding: 10px;
+	width: 100%;
+}
+
+.wrapper {
+	margin: 10px 10%;
+}
+
+body {
+	background: #f0f5f5;
+	margin: 0;
+}
+h3 {
+	color: rgb(102, 0, 51);
+}
+h1 {
+	color: rgb(0, 51, 102);
+}
+
+p {
+	margin: 0;
+}
+
+.heading {
+	margin: 0 0 0 15px;
+}
+
+.card  {
+	width: 400px;
+	display: flex;
+	color: gray;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	background: white;
+	margin: 15px;
+}
+
+.card-line  {
+	background: #74b9ff;
+	width: 3px;
+}
+
+.card-content {
+	padding: 15px;
+}
+
+.card-title {
+	color: #2d3436;
+	margin: 0px;
+}
+
+.card-date {
+	color: #74b9ff;
+	margin: 5px 0;
+	font-size: 15px;
+}
+
+.card-container {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+}
+
